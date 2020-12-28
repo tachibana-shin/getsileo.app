@@ -7366,10 +7366,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-vue-aos2@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/vue-aos2/-/vue-aos2-0.0.1.tgz#90a9af45b08ecbe9cfd64b6cefedb9effd5af0f2"
-  integrity sha512-H4gtjCawMPDpBe7aHWiNfElvZ4t8UEnZ0191S5kEpVoO3bGag1qNHtYNr+yjGZzgCpuTM2uwgqKjFBEyg4I1ag==
+vue-aos2@^0.0.3-b1:
+  version "0.0.3-b1"
+  resolved "https://registry.yarnpkg.com/vue-aos2/-/vue-aos2-0.0.3-b1.tgz#ba6ab2b4521a0beadd43a084b6ec2a9f9e4136ed"
+  integrity sha512-kiDszLGSlZRG2z0BadYUOjMOZCT+1dkQRtlvAKrQuQq2QoXD60R/AkHelDuRb1frdDLTXWsfyQSoRWTXDhAXdw==
   dependencies:
     aos "^2.3.4"
 
